@@ -1,16 +1,15 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL🖤
 
-<!--
-**lklimaxtt24/lklimaxtt24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kathelyn braga lima 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://alura.com.br)
+- Estou me desenvolvendo na linguagem Javascripth
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📫
+
+kathelynbragalima12@gmail.com
+
+@lk_.limaxtt
+
+![](https://tenor.com/bmE4e.gif)
