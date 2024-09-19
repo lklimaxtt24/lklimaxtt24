@@ -12,4 +12,4 @@ kathelynbragalima12@gmail.com
 
 @lk_.limaxtt
 
-![](https://tenor.com/bmE4e.gif)
+![descrição do GIF](https://tenor.com/bmE4e.gif)
