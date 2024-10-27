@@ -7,4 +7,5 @@ Meu nome é Kathelyn braga lima
 ### você pode entrar em contato comigo 📫
 kathelynbragalima12@gmail.com
 @lk_.limaxtt
-![](https://tenor.com/bmE4e.gif)
+
+![love-languages](https://github.com/user-attachments/assets/2054b4e7-9798-43e5-bb96-6868d19e5318)
