@@ -8,4 +8,5 @@ Meu nome é Kathelyn braga lima
 kathelynbragalima12@gmail.com
 @lk_.limaxtt
 
-![love-languages](https://github.com/user-attachments/assets/2054b4e7-9798-43e5-bb96-6868d19e5318)
+![love-languages](https://github.com/user-attachments/assets/7e53c46c-4b04-4672-82d2-28736bad630a)
+
