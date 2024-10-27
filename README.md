@@ -11,5 +11,4 @@ Meu nome é Kathelyn braga lima
 kathelynbragalima12@gmail.com
 
 @lk_.limaxtt
-
-![descrição do GIF](https://tenor.com/bmE4e.gif)
+![](https://tenor.com/bmE4e.gif)
